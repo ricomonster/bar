@@ -24,4 +24,4 @@ vite.config.ts.timestamp-*
 
 .yarn
 .yarnrc.yml
-.yarn.lock
+yarn.lock
