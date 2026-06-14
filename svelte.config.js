@@ -13,7 +13,6 @@ const config = {
       assets: 'static',
       routes: 'src/app/routes/',
       appTemplate: 'src/app/app.html',
-      assets: 'static',
       hooks: {
         server: 'src/app/hooks.server.ts',
       }
